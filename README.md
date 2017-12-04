@@ -1,2 +1,2 @@
 # Hello-World
-Say hello to your little friend
+Completely new to github!
